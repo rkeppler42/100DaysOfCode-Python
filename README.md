@@ -9,8 +9,8 @@ This repository contains all the projects I’ve completed from the course
 
 ## 🚀 Progress
 
-![Days Completed](https://img.shields.io/badge/Days_Completed-2%2F100-blue)
-![Projects](https://img.shields.io/badge/Projects-2-success)
+![Days Completed](https://img.shields.io/badge/Days_Completed-3%2F100-blue)
+![Projects](https://img.shields.io/badge/Projects-3-success)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 ---
@@ -35,7 +35,7 @@ Most days include:
 
 - [Day 01 – Band Name Generator](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%2001%20-%20Band%20Name%20Generator)
 - [Day 02 – Tip Calculator](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%2002%20-%20Tip%20Calculator)
-- Day 03 – Treasure Island (Text Adventure)
+- [Day 03 – Treasure Island (Text Adventure)](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%2003%20-%20Treasure%20Island)
 - Day 04 – Rock, Paper, Scissors
 - Day 05 – Password Generator
 - Day 06 – Reeborg’s World Maze
