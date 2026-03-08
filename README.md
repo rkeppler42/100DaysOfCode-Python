@@ -9,8 +9,8 @@ This repository contains all the projects I’ve completed from the course
 
 ## 🚀 Progress
 
-![Days Completed](https://img.shields.io/badge/Days_Completed-3%2F100-blue)
-![Projects](https://img.shields.io/badge/Projects-3-success)
+![Days Completed](https://img.shields.io/badge/Days_Completed-4%2F100-blue)
+![Projects](https://img.shields.io/badge/Projects-4-success)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 ---
