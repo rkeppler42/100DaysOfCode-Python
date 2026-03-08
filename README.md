@@ -35,7 +35,7 @@ Most days include:
 
 - [Day 01 – Band Name Generator](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20001%20-%20Band%20Name%20Generator)
 - [Day 02 – Tip Calculator](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20002%20-%20Tip%20Calculator)
-- [Day 03 – Treasure Island (Text Adventure)](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%2003%20-%20Treasure%20Island)
+- [Day 03 – Treasure Island (Text Adventure)](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20003%20-%20Treasure%20Island)
 - Day 04 – Rock, Paper, Scissors
 - Day 05 – Password Generator
 - Day 06 – Reeborg’s World Maze
