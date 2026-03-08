@@ -61,15 +61,6 @@ Computer chose:
 You lose.
 ```
 
-
----
-
-## 📦 Project Structure
-
-Day 04 - Rock Paper Scissors/
-│── main.py
-└── README.md
-
 ---
 
 ## 🏁 Status
