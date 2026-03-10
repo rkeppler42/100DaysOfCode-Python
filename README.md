@@ -9,8 +9,8 @@ This repository contains all the projects I’ve completed from the course
 
 ## 🚀 Progress
 
-![Days Completed](https://img.shields.io/badge/Days_Completed-5%2F100-blue)
-![Projects](https://img.shields.io/badge/Projects-5-success)
+![Days Completed](https://img.shields.io/badge/Days_Completed-6%2F100-blue)
+![Projects](https://img.shields.io/badge/Projects-6-success)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 ---
@@ -38,7 +38,7 @@ Most days include:
 - [Day 03 – Treasure Island (Text Adventure)](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20003%20-%20Treasure%20Island)
 - [Day 04 – Rock, Paper, Scissors](https://github.com/rkeppler42/100DaysOfCode-Python/blob/main/Day%20004%20-%20Rock%20Paper%20Scissors)
 - [Day 05 – Password Generator](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20005%20-%20Password%20Generator)
-- Day 06 – Reeborg’s World Maze
+- [Day 06 – Reeborg’s World Maze](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20006%20-%20Reeborg's%20World%20Maze)
 - Day 07 – Hangman
 - Day 08 – Caesar Cipher
 - Day 09 – Blind Auction
