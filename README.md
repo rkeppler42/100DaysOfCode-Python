@@ -41,7 +41,7 @@ Most days include:
 - [Day 06 – Reeborg’s World Maze](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20006%20-%20Reeborg's%20World%20Maze)
 - [Day 07 – Hangman](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20007%20-%20Hangman)
 - [Day 08 – Caesar Cipher](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20008%20-%20Caesar%20Cypher)
-- Day 09 – Blind Auction
+- [Day 09 – Blind Auction](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20009%20-%20Blind%20Auction)
 - Day 10 – Calculator
 - Day 11 – Blackjack
 - Day 12 – Number Guessing Game
