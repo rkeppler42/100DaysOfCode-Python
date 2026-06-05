@@ -9,8 +9,8 @@ This repository contains all the projects I’ve completed from the course
 
 ## 🚀 Progress
 
-![Days Completed](https://img.shields.io/badge/Days_Completed-8%2F100-blue)
-![Projects](https://img.shields.io/badge/Projects-8-success)
+![Days Completed](https://img.shields.io/badge/Days_Completed-11%2F100-blue)
+![Projects](https://img.shields.io/badge/Projects-11-success)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 ---
@@ -20,9 +20,10 @@ This repository contains all the projects I’ve completed from the course
 Every day of the challenge is organized inside the folder `Day XX - Project Name`.
 
 Most days include:
+
 - The **project code**
-- Additional **files**, **assets**, or **documentation** when required  
-- A **README** inside each folder explaining the goal of the day  
+- Additional **files**, **assets**, or **documentation** when required
+- A **README** inside each folder explaining the goal of the day
 - Some days contain multiple small exercises before the main project
 
 ---
@@ -42,8 +43,8 @@ Most days include:
 - [Day 07 – Hangman](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20007%20-%20Hangman)
 - [Day 08 – Caesar Cipher](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20008%20-%20Caesar%20Cypher)
 - [Day 09 – Blind Auction](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20009%20-%20Blind%20Auction)
-- Day 10 – Calculator
-- Day 11 – Blackjack
+- [Day 10 – Calculator](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20010%20-%20Calculator)
+- [Day 11 – Blackjack](https://github.com/rkeppler42/100DaysOfCode-Python/tree/main/Day%20011%20-%20Blackjack)
 - Day 12 – Number Guessing Game
 - Day 13 – Debugging Exercises
 - Day 14 – Higher Lower Game
@@ -74,9 +75,6 @@ Most days include:
 - Day 37 – Habit Tracker API
 - Day 38 – Workout Tracking with Google Sheets
 - Day 39–40 – Flight Deal Finder
-
-### 🔴 Advanced Projects (Days 61–100)
-
 - Day 41 – Web Foundation Basics
 - Day 42 – HTML/CSS Portfolio Site
 - Day 43 – Web Scraping (BeautifulSoup)
@@ -104,4 +102,3 @@ Most days include:
 - Learn GUI (Tkinter), APIs, automation, web dev (Flask)
 - Practice clean code, documentation and version control
 - Finish with a full portfolio of practical Python apps
-
